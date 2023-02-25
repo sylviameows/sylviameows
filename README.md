@@ -1,5 +1,7 @@
 ## Hi I'm Vulpic! 👋
 ```typescript
+import { GithubProfile } from "github";
+
 const vulpic: GithubProfile = {
   name: "vulpic", // also goes by "Vae"
   age: 16,
@@ -14,7 +16,7 @@ const vulpic: GithubProfile = {
 	CSS
   ],
   lang: ["en_US"],
-}
+};
 
-export default vulpic
+export default vulpic;
 ```
