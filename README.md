@@ -1,4 +1,5 @@
-## Hi I'm Vulpic! 👋
+## Hi I'm Vulpic! <img src="https://cdn.discordapp.com/emojis/591236411127234571.gif?size=40">
+
 ```typescript
 import { GithubProfile } from "github";
 
