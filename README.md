@@ -13,7 +13,8 @@ const vulpic: GithubProfile = {
 	Java, 
 	Python, 
 	HTML, 
-	CSS
+	CSS,
+	SQL
   ],
   lang: ["en_US"],
 };
