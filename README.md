@@ -3,10 +3,10 @@
 ```typescript
 import { GithubProfile } from "github";
 
-const vulpic: GithubProfile = {
-  name: "vulpic", // also goes by "Vae"
-  age: 16,
-  pronouns: ["he/him", "they/them"],
+const vae: GithubProfile = {
+  name: "vae", // also goes by "vulpic"
+  age: 17,
+  pronouns: ["she/her", "they/them"],
   code: [
 	TypeScript, 
 	JavaScript, 
@@ -19,5 +19,5 @@ const vulpic: GithubProfile = {
   lang: ["en_US"],
 };
 
-export default vulpic;
+export default vae;
 ```
