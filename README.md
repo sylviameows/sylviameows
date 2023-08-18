@@ -4,7 +4,7 @@
 import { GithubProfile } from "github";
 
 const vae: GithubProfile = {
-  name: "vae", // also goes by "vulpic"
+  name: "vae", // also known as "vulpic"
   age: 17,
   pronouns: ["she/her", "they/them"],
   code: [
