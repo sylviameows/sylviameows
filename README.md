@@ -4,8 +4,8 @@
 import { type GithubProfile } from "github";
 
 const vae: GithubProfile = {
-  username: "vae", // formerly known as "vulpic"
-  name: "Astrid" | "Sylvia",
+  username: "vae",
+  name: "Sylvia",
   age: 17,
   pronouns: "she" | "her" | "they" | "them",
   code: [
