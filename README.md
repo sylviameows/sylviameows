@@ -4,10 +4,10 @@
 import { type GithubProfile } from "github";
 
 const vae: GithubProfile = {
-  username: "vae",
+  username: "sylviameows",
   name: "Sylvia",
   age: 18,
-  pronouns: "she" | "her" | "they" | "them",
+  pronouns: ["she", "her", "they", "them"],
   code: [
     Language.TypeScript, 
     Language.JavaScript, 
