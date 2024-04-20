@@ -1,7 +1,7 @@
 ## Hi I'm Vae! <img src="https://cdn.discordapp.com/emojis/591236411127234571.gif?size=40">
 
 ```typescript
-import { type GithubProfile } from "github";
+import { type GithubProfile, Language } from "github";
 
 const vae: GithubProfile = {
   username: "sylviameows",
