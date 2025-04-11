@@ -6,7 +6,7 @@ import { type GithubProfile, Language } from "github";
 const vae: GithubProfile = {
   username: "sylviameows",
   name: "Sylvia",
-  age: 18,
+  age: 19,
   pronouns: ["she", "her", "they", "them"],
   code: [
     Language.TypeScript, 
